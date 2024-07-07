@@ -55,6 +55,10 @@
 
 ---
 
+### Admin Panel Login Credentials:
+- Username: admin
+- Password: admin
+
 ### Notes:
 - Ensure XAMPP services (Apache and MySQL) are running when accessing `http://localhost/phpmyadmin`.
 - Adjust paths and commands based on your operating system and project structure.
